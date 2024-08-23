@@ -32,6 +32,7 @@ button {
     padding: 100px;
     transition: background-color 0.3s;
     font-size: 30px;
+    display: flex;
     justify-content:space-between;
 }
 button:hover{

@@ -27,11 +27,12 @@ h1{
 button {
     background-color: var(--cor-secundaria);
     color: var(--cor-texto);
-    border: 100px;
+    border: none;
     border-radius: 10px;
     padding: 100px;
     transition: background-color 0.3s;
     font-size: 30px;
+    justify-content:space-between;
 }
 button:hover{
     background-color: var(--cor-destaque);

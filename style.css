@@ -28,7 +28,7 @@ button {
     color: var(--cor-texto);
     border: none;
     border-radius: 10px;
-    padding: 200px;
+    padding: 100px;
     transition: background-color 0.3s;
 }
 button:hover{

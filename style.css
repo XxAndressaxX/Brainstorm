@@ -22,6 +22,7 @@ body {
 }
 h1{
     color: var(--cor-destaque);
+    width:30px;
 }
 button {
     background-color: var(--cor-secundaria);

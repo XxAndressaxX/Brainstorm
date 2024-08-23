@@ -61,7 +61,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Reavalio minhas ações e ajusto para voltar ao caminho certo",
-                afirmacao: "Você reflete sobre suas ações e faz ajustes para garantir que estão alinhadas com seus valores e objetivos,diante disso, você não está preparado para enfrentar o mundo."
+                afirmacao: "Você reflete sobre suas ações e faz ajustes para garantir que estão alinhadas com seus valores e objetivos,diante disso, você está preparado para enfrentar o mundo."
             },
             {
                 texto: "Só percebo tarde demais e tenho dificuldade em mudar",

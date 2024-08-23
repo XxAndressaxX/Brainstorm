@@ -11,14 +11,14 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 200vh;
 }
 .caixa-principal{
     background-color: var(--cor-principal);
-    width: 100%;
+    width: 300%;
     max-width: 2000px;
     text-align: center;
-    padding: 100px;
+    padding: 20px;
 }
 h1{
     color: var(--cor-destaque);

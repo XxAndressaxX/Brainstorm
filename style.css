@@ -19,10 +19,10 @@ body {
     max-width: 2000px;
     text-align: center;
     padding: 20px;
+    widht: 100px;
 }
 h1{
     color: var(--cor-destaque);
-    width:30px;
 }
 button {
     background-color: var(--cor-secundaria);
